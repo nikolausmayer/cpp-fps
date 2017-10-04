@@ -17,7 +17,7 @@ CXXFLAGS = -Wall -Wextra -std=c++11
 LDFLAGS = 
 
 ## Default name for the built executable
-TARGET = generic_executable
+TARGET = fps_example
 
 ## Every *.cc/*.cpp file is a source file
 SRCS = $(wildcard *.cc *.cpp)
